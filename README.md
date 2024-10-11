@@ -1,4 +1,6 @@
-This repository is to function as supplementary material for the paper "A Novel and Low-cost Concept for In-Situ Applications of Planar Optodes in Soils". Please find 3D files for printing structural components, wiring diagram and information on electronic + additional components required.
+This repository is to function as supplementary material for the paper "A Novel and Low-cost Concept for In-Situ Applications of Planar Optodes in Soils". 
+
+Please find 3D files for printing structural components, wiring diagram and information on electronic + additional components required.
 
 For Python scripts regarding operating the imaging system please refer to the repository: https://github.com/MartinReinhard10/Operate_In-Situ_Soil_Optode
 
