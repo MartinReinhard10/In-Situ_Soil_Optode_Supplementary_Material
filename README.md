@@ -81,7 +81,7 @@ File (.step) with full 3D model of the system can be provided if needed.
     
     [SNF-3P%20updated.pdf](https://cdn.sparkfun.com/datasheets/Robotics/SNF-3P%20updated.pdf)
     
-- **Power supply - 12V 5A + adapter (DC 5,50 x 2,10 - female to 2-pin terminal block)**
+- **Power supply - 12V DC 5A 
 
 ---
 
