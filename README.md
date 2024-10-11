@@ -76,12 +76,12 @@ File (.step) with full 3D model of the system can be provided if needed.
     [LM2596 Buck Converter Datasheet, Pinout, Features, Applications - The Engineering Projects](https://www.theengineeringprojects.com/2020/09/lm2596-buck-converter-datasheet-pinout-features-applications.html)
     
 - **12V Cooling Fan (60x60x10mm)**
-- 
+  
 - **Slip Ring**
     
     [SNF-3P%20updated.pdf](https://cdn.sparkfun.com/datasheets/Robotics/SNF-3P%20updated.pdf)
     
-- **Power supply - 12V DC 5A 
+- **Power supply - 12V DC 5A**
 
 ---
 
