@@ -1,4 +1,4 @@
-This repository is to function as supplementary material for the paper "A Novel and Low-cost Concept for In-Situ Applications of Planar Optodes in Soils". 
+This repository is to function as supplementary material for the paper "A novel, standalone and low-cost system for in-situ chemical imaging with planar optodes in soils": https://doi.org/10.1016/j.snb.2024.136894
 
 Please find 3D files for printing structural components, wiring diagram and information on electronic + additional components required.
 
